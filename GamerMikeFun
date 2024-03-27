@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>ENCRYPTED SITE</title>
+        <style>
+            body {
+                background-color: black;
+            }
+            h1 {
+                color: lawngreen;
+                font-family: monospace;
+            }
+            p {
+                color: lawngreen;
+                font-family: monospace;
+            }
+        </style>
+    </head>
+    <body>
+        <center>
+            <h1>GamerMikeFun Operations</h1>
+            <p>Operation: X -- X%</p>
+            <p>Operation: X -- X%</p>
+            <p>Operation: X -- X%</p>
+            <p>Operation: X -- X%</p>
+            <p>Operation: X -- X%</p>
+            <p>Operation: X -- X%</p>
+            <p>Operation: X -- X%</p>
+            <p>Operation: X -- X%</p>
+            <p>Operation: X -- X%</p>
+        </center>
+    </body>
+</html>
