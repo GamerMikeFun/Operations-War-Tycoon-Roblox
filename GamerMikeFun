@@ -7,64 +7,72 @@
                 align-items: center;
             }
             h1 {
-                color: lawngreen;
+                color: green;
                 font-family: monospace;
             }
             h2 {
-                color: lawngreen;
+                color: green;
                 font-family: monospace;
             }
             p {
-                color: lawngreen;
                 font-family: monospace;
+            }
+            .complete {
+                color: green
+            }
+            .incomplete {
+                color: red
             }
         </style>
     </head>
     <body>
+
+        <!-- class="complete"-->
+        <!-- class="incomplete"-->
         
             <h1>GamerMikeFun: War Operations</h1>
             <h2>Soldier Operations</h2>
-            <p>Operation: Rocketeer -- 100%</p>
+            <p class="complete">Operation: Rocketeer -- 100%</p>
             <h2>Vehicle Operations</h2>
-            <p>Operation: Scavenge -- 100%</p>
-            <p>Operation: Firepower -- 100%</p>
-            <p>Operation: Blowup -- 100%</p>
-            <p>Operation: Boom -- 100%</p>
-            <p>Operation: Air Defence -- 100%</p>
-            <p>Operation: Takedown -- 100%</p>
+            <p class="complete">Operation: Scavenge -- 100%</p>
+            <p class="complete">Operation: Firepower -- 100%</p>
+            <p class="complete">Operation: Blowup -- 100%</p>
+            <p class="complete">Operation: Boom -- 100%</p>
+            <p class="complete">Operation: Air Defence -- 100%</p>
+            <p class="complete">Operation: Takedown -- 100%</p>
             <h2>Helicopter Operations</h2>
-            <p>Operation: Chopper -- 100%</p>
-            <p>Operation: Ground Strike -- 100%</p>
-            <p>Operation: Sea Fury -- X%</p>
-            <p>Operation: Havoc -- 100%</p>
-            <p>Operation: Recover -- 100%</p>
+            <p class="complete">Operation: Chopper -- 100%</p>
+            <p class="complete">Operation: Ground Strike -- 100%</p>
+            <p class="incomplete">Operation: Sea Fury -- X%</p>
+            <p class="complete">Operation: Havoc -- 100%</p>
+            <p class="complete">Operation: Recover -- 100%</p>
             <h2>Naval Operations</h2>
-            <p>Operation: Sea Crusher -- 100%</p>
-            <p>Operation: Naval Barrage -- 100%</p>
-            <p>Operation: Barrel Bounty -- 100%</p>
-            <p>Operation: Blast -- X%</p>
-            <p>Operation: Spray Time -- 100%</p>
+            <p class="complete">Operation: Sea Crusher -- 100%</p>
+            <p class="complete">Operation: Naval Barrage -- 100%</p>
+            <p class="complete">Operation: Barrel Bounty -- 100%</p>
+            <p class="incomplete">Operation: Blast -- X%</p>
+            <p class="complete">Operation: Spray Time -- 100%</p>
             <h2>Vietnam Operations</h2>
-            <p>Operation: Barrel Roll -- 100%</p>
-            <p>Operation: Homecoming -- 100%</p>
-            <p>Operation: Long Reach -- 100%</p>
-            <p>Operation: Cedar Falls -- 100%</p>
-            <p>Operation: Rolling Thunder -- 100%</p>
+            <p class="complete">Operation: Barrel Roll -- 100%</p>
+            <p class="complete">Operation: Homecoming -- 100%</p>
+            <p class="complete">Operation: Long Reach -- 100%</p>
+            <p class="complete">Operation: Cedar Falls -- 100%</p>
+            <p class="complete">Operation: Rolling Thunder -- 100%</p>
             <h2>Tank Operations</h2>
-            <p>Operation: Tank Slayer -- 100%</p>
-            <p>Operation: Desert Storm -- 100%</p>
-            <p>Operation: Sky Shield -- 100%</p>
-            <p>Operation: Heavy Metal -- 100%</p>
-            <p>Operation: Ironclad -- 100%</p>
-            <p>Operation: Armored Assault -- 100%</p>
-            <p>Operation: Assemble -- 100%</p>
+            <p class="complete">Operation: Tank Slayer -- 100%</p>
+            <p class="complete">Operation: Desert Storm -- 100%</p>
+            <p class="complete">Operation: Sky Shield -- 100%</p>
+            <p class="incomplete">Operation: Heavy Metal -- X%</p>
+            <p class="incomplete">Operation: Ironclad -- X%</p>
+            <p class="complete">Operation: Armored Assault -- 100%</p>
+            <p class="complete">Operation: Assemble -- 100%</p>
             <h2>Plane Operations</h2>
-            <p>Operation: Air Dominance -- 100%</p>
-            <p>Operation: Tank Buster -- X%</p>
-            <p>Operation: Air Support -- 8%</p>
-            <p>Operation: Air Superiority -- X%</p>
-            <p>Operation: Sky Guardian -- 100%</p>
-            <p>Operation: Aerial Ace -- X%</p>
+            <p class="complete">Operation: Air Dominance -- 100%</p>
+            <p class="incomplete">Operation: Tank Buster -- X%</p>
+            <p class="incomplete">Operation: Air Support -- 8%</p>
+            <p class="incomplete">Operation: Air Superiority -- X%</p>
+            <p class="complete">Operation: Sky Guardian -- 100%</p>
+            <p class="incomplete">Operation: Aerial Ace -- X%</p>
 
         
     </body>
